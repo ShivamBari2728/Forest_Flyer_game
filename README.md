@@ -2,7 +2,8 @@
 
 # Forest Flyer
 
-This is a simple game built using [Flame](https://pub.dev/packages/flame) a flutter-based game engine.
+This is a simple game built using flutter and [Flame](https://pub.dev/packages/flame) a flutter-based game engine.
+
 ## Run Locally
 
 Clone the project
